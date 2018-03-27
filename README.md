@@ -6,7 +6,7 @@ This project is for Hand Gesture Recognition System. Convolutional Neural Networ
 This project enables uesrs to create their own dataset for the application. From the menu, user can select the right option for creating new datasets. It will open open the WebCam and start capturing the image of hand gestures. After capturing the image data, the system needs to be re-trained. 
 
 #### DataSet Directory
-Dataset is stored in "dataset/" folder. Here, the each class datas are zipped. If anybody wants to use the dataset to train again, feel free to unzip and download.
+Dataset is stored in "dataset/" folder. Here, the each class datas are zipped. If anybody wants to use the dataset to train again, feel free to use them.
 
 ### Region Of Interest
 At this moment, this project focuses on a particular region. If the hand is placed inside the ROI, then it will only be classified. I will make another version to make it more general.
