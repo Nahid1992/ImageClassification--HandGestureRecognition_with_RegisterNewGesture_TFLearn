@@ -17,10 +17,13 @@ At first, each ROI is cropped from the video frames. Then the cropped image is c
 ### Dataset Properties	
 	Number of images for each class = 500
 	Number of classes so far = 5
-Having only 500 images per class gave around 98% of accuracy while training with Convolutional Neural Network
+Having only 500 images per class gave around 99% of accuracy while training with Convolutional Neural Network
 
 ### Screen Shots of Performance Graph
-=Coming Soon-
+#### Accuracy
+![](https://github.com/Nahid1992/ImageClassification--HandGestureRecognition_with_RegisterNewGesture_TFLearn/blob/master/ScreenShots/Accuracy.png)
+#### Loss
+![](https://github.com/Nahid1992/ImageClassification--HandGestureRecognition_with_RegisterNewGesture_TFLearn/blob/master/ScreenShots/Loss.png)
 
 ### Screen Shots of the Application
 -Coming Soon-
