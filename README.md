@@ -1,4 +1,4 @@
-# ImageClassification
+# Image Classification
 ## Hand Gesture Recognition
 This project is for Hand Gesture Recognition System. Convolutional Neural Network was used for feature extraction as well as classification of various hand gestures. Moreover, this program enables users to create their own hand gesture and register with a label name. Later on the new dataset can be re-trained using CNN. For training the Model only two convolutional layer was good enough.
 
