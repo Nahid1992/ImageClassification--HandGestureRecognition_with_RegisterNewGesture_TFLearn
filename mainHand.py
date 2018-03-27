@@ -82,7 +82,7 @@ def train_model(X,Y):
 def main():
     while True:
         print('------------------------------------')
-        print('1. Create DataSet')
+        print('1. Register New Class')
         print('2. Re-Train Model')
         print('3. Start Application')
         print('Quit')
