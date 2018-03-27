@@ -5,7 +5,7 @@ import time
 
 class createDataset(object):
     def __init__(self):
-        print('Register Face -ON-')
+        print('Register New DataSet -ON-')
 
     def register(self):
         self.CLASSNAME = input("Register ClassName = ")
